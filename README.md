@@ -20,7 +20,7 @@
 
 I'm Ahtisham Razzaq, a Full Stack Web Developer with 2 years of professional experience building modern, scalable web applications using React.js and Node.js.
 
-I spent those 2 years at Morosoft, working on both solo projects and team collaborations. That experience taught me how to take ownership of a project, write clean and maintainable code, and ship products that perform reliably under real-world traffic — not just in a dev environment.
+I spent those 1 years at Morosoft, working on both solo projects and team collaborations. That experience taught me how to take ownership of a project, write clean and maintainable code, and ship products that perform reliably under real-world traffic — not just in a dev environment.
 
 My core stack is React.js on the frontend and Node.js with Express on the backend, paired with MongoDB for data storage. I handle everything end-to-end — from designing REST APIs and database schemas to building responsive, pixel-perfect UIs with smooth interactions.
 
@@ -135,7 +135,7 @@ Right now I'm taking on freelance projects through Upwork. If you have something
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:1a1a2e,100:0D1117&height=120&section=footer"/>
-## Hi there 👋
+
 
 <!--
 **ahtishamabbasi1468-pixel/ahtishamabbasi1468-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
