@@ -18,11 +18,11 @@
 
 ## 👨‍💻 About Me
 
-I'm Ahtisham Razzaq, a Full Stack Web Developer with 2 years of professional experience building modern, scalable web applications using React.js and Node.js.
+I'm Ahtisham Razzaq, a Full Stack Web Developer with 1 years of professional experience building modern, scalable web applications using React.js and Asp.Net.
 
-I spent those 1 years at Morosoft, working on both solo projects and team collaborations. That experience taught me how to take ownership of a project, write clean and maintainable code, and ship products that perform reliably under real-world traffic — not just in a dev environment.
+I spent those 1 years at MorosoftLab, working on both solo projects and team collaborations. That experience taught me how to take ownership of a project, write clean and maintainable code, and ship products that perform reliably under real-world traffic — not just in a dev environment.
 
-My core stack is React.js on the frontend and Node.js with Express on the backend, paired with MongoDB for data storage. I handle everything end-to-end — from designing REST APIs and database schemas to building responsive, pixel-perfect UIs with smooth interactions.
+My core stack is React.js on the frontend and Asp.Net on the backend, paired with MongoDB and MSSQL for data storage and Also use FireBase for Data storage. I handle everything end-to-end — from designing REST APIs and database schemas to building responsive, pixel-perfect UIs with smooth interactions.
 
 What drives me is simple — I want the products I build to feel fast, intuitive, and rock-solid. Good code isn't just about working features; it's about an experience users actually enjoy and a codebase developers actually enjoy maintaining.
 
@@ -86,10 +86,10 @@ Right now I'm taking on freelance projects through Upwork. If you have something
 
 ```
 🏢 Morosoft                          Full Stack Web Developer
-   2022 — 2024  |  2 Years
-   ├── End-to-end web app development (React + Node.js)
+   2022 — 2024  |  1 Years
+   ├── End-to-end web app development (React + Asp.net)
    ├── Solo & team-based project delivery
-   ├── REST API design, MongoDB, Authentication
+   ├── REST API design, MongoDB,MSSQL, FireBase, Authentication
    └── Clean architecture & scalable codebase
 ```
 
@@ -101,7 +101,7 @@ Right now I'm taking on freelance projects through Upwork. If you have something
 
 | 🎨 Frontend | ⚙️ Backend | 🗄️ Database | 🔗 Integrations |
 |:---:|:---:|:---:|:---:|
-| React Apps | Node + Express APIs | MongoDB | Payment Gateways |
+| React Apps | Asp.Net | MongoDB | MSSQL | FireBase | Payment Gateways |
 | Responsive UI | Authentication (JWT) | Mongoose Schemas | Third Party SDKs |
 | Pixel Perfect | Scalable Architecture | Cloud DB (Atlas) | REST Integration |
 
