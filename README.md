@@ -86,7 +86,7 @@ Right now I'm taking on freelance projects through Upwork. If you have something
 ## 💼 Work Experience
 
 ```
-🏢 Morosoft                          Full Stack Web Developer
+🏢 MorosoftLab                          Full Stack Web Developer
    2022 — 2024  |  1 Years
    ├── End-to-end web app development (React + Asp.net)
    ├── Solo & team-based project delivery
