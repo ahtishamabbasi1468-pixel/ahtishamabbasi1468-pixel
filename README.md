@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React.js+%7C+Asp.Net+%7C+MongoDB+Expert;Modern%2C+Fast+%26+Scalable+Web+Apps;2%2B+Years+of+Real+World+Experience;ex-Morosoft+Developer+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React.js+%7C+Asp.Net+%7C+MongoDB+Expert;Modern%2C+Fast+%26+Scalable+Web+Apps;1+Year+of+Real+World+Experience)](https://git.io/typing-svg)
 
 <br/>
 
@@ -86,7 +86,7 @@ Right now I'm taking on freelance projects through Upwork. If you have something
 ## 💼 Work Experience
 
 ```
-🏢 MorosoftLab                          Full Stack Web Developer
+🏢 MorosoftLab                       Full Stack Web Developer
    2022 — 2024  |  1 Years
    ├── End-to-end web app development (React + Asp.net)
    ├── Solo & team-based project delivery
