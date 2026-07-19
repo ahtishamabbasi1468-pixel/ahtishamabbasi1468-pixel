@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:00D4FF&height=200&section=header&text=Ahtisham%20Razzaq&fontSize=50&fontColor=00D4FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20React%20%7C%20Node.js&descAlignY=58&descSize=18&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:00D4FF&height=200&section=header&text=Ahtisham%20Razzaq&fontSize=50&fontColor=00D4FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20React%20%7C%20Asp.Net&descAlignY=58&descSize=18&descColor=ffffff"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React.js+%7C+Node.js+%7C+MongoDB+Expert;Modern%2C+Fast+%26+Scalable+Web+Apps;2%2B+Years+of+Real+World+Experience;ex-Morosoft+Developer+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;React.js+%7C+Asp.Net+%7C+MongoDB+Expert;Modern%2C+Fast+%26+Scalable+Web+Apps;2%2B+Years+of+Real+World+Experience;ex-Morosoft+Developer+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <br/>
 
@@ -42,9 +42,10 @@ Right now I'm taking on freelance projects through Upwork. If you have something
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend & Database
-![ASP.Net](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![ASP.Net](https://img.shields.io/badge/Asp.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🧰 Tools & IDEs
@@ -89,7 +90,7 @@ Right now I'm taking on freelance projects through Upwork. If you have something
    2022 — 2024  |  1 Years
    ├── End-to-end web app development (React + Asp.net)
    ├── Solo & team-based project delivery
-   ├── REST API design, MongoDB,MSSQL, FireBase, Authentication
+   ├── REST API design, MongoDB, MSSQL, Firebase, Authentication
    └── Clean architecture & scalable codebase
 ```
 
@@ -101,8 +102,8 @@ Right now I'm taking on freelance projects through Upwork. If you have something
 
 | 🎨 Frontend | ⚙️ Backend | 🗄️ Database | 🔗 Integrations |
 |:---:|:---:|:---:|:---:|
-| React Apps | Asp.Net | MongoDB | MSSQL | FireBase | Payment Gateways |
-| Responsive UI | Authentication (JWT) | Mongoose Schemas | Third Party SDKs |
+| React Apps | Asp.Net | MongoDB / MSSQL | Payment Gateways |
+| Responsive UI | Authentication (JWT) | Firebase | Third Party SDKs |
 | Pixel Perfect | Scalable Architecture | Cloud DB (Atlas) | REST Integration |
 
 </div>
