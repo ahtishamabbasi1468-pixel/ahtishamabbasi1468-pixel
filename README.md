@@ -9,7 +9,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-ahtishamabbasi1468--pixel-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/ahtishamabbasi1468-pixel)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahtisham%20Razzaq-0F172A?style=for-the-badge&logo=linkedin&logoColor=6366F1)](https://www.linkedin.com/in/ahtisham-razzaq-528402361)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ehtesham%20Razzaq-0F172A?style=for-the-badge&logo=linkedin&logoColor=6366F1)](https://www.linkedin.com/in/ehtesham-razzaq-528402361)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-0F172A?style=for-the-badge&logo=vercel&logoColor=22D3EE)](https://ahtishamrazzaq.vercel.app)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-0F172A?style=for-the-badge&logo=upwork&logoColor=6FDA44)](https://www.upwork.com/freelancers/~01f99939fcd73da5b1?mp_source=share)
 
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Ahtisham Razzaq, a **Full-Stack Web Developer & UI/UX Designer** building modern, scalable, and user-centered web applications with React.js and ASP.NET Core.
+I'm Ehtesham Razzaq, a **Full-Stack Web Developer & UI/UX Designer** building modern, scalable, and user-centered web applications with React.js and ASP.NET Core.
 
 I currently work as a Full Stack Web Developer at **MorosoftLabs**, where I handle projects end-to-end — from understanding user needs and designing intuitive interfaces to developing responsive frontends, robust APIs, and reliable backend systems.
 
